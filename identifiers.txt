@@ -1,0 +1,11 @@
+Identifier Name , Line number , var/arr/func , Identifier type , Number of times referenced
+a , 8 , var , int , 1
+f , 7 , var , double , 1
+g , 6 , var , float , 1
+h , 20 , var , short , 1
+int_pointer , 19 , var , int* , 1
+main , 1 , func , int , 1
+msg , 18 , var , char* , 1
+x , 3 , var , int , 1
+y , 4 , var , long , 1
+z , 5 , var , long long, 1
